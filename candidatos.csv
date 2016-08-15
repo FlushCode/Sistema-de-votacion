@@ -1,0 +1,29 @@
+lista,cargo,nombre
+Alanitos,Presidente,Brume Orlon
+Alanitos,Vicepresidente,Marlin Colt
+
+Alanitos,Tesorero,Lava Garriere
+
+Alanitos,Senador,Farrago Biffiez
+
+Alanitos,Diputado,Peluca Sera
+
+Alanitos,Legislador,Numeral Topo
+
+Barbaros,Presidente,Magneton Trizas
+
+Barbaros,Vicepresidente,Egida Yesosa
+
+Barbaros,tesorero,Inicio Aseguro
+
+Barbaros,Senador,Idalia Engrose
+
+Barbaros,Diputado,Lavandina Relojes
+
+Barbaros,Legislador,Asintotas Guinga
+Voto en blanco,Legislador,
+Voto en blanco,Diputado,
+Voto en blanco,Tesorero,
+Voto en blanco,Presidente,
+Voto en blanco,Senador,
+Voto en blanco,Vicepresidente,
